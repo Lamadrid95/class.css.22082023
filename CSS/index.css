@@ -1,0 +1,47 @@
+.iBook{
+    color: burlywood;
+}
+span{
+    background-color: gainsboro;
+    
+}
+
+h4{
+    text-align: center;
+    color: cornflowerblue;
+}
+h5{
+    text-align: center;
+    color: dimgrey;
+}
+
+
+#start{
+    text-decoration: none;
+    color: dimgrey;
+}
+#read{
+    text-decoration: none;
+    color: darkcyan;
+}
+#download{
+    text-decoration: none;
+    color: cadetblue;
+}
+#tutorial{
+    text-decoration: none;
+    color: darkolivegreen;
+}
+#text1 {
+    text-align: justify;
+    text-align: center;
+    color: darkslategrey;
+}
+#text2{
+    text-align: justify;
+    text-align: center;
+    color: darkslategrey;
+}
+#creator{
+    color: cadetblue;
+}
